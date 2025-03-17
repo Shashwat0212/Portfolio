@@ -24,7 +24,7 @@ It features an **Admin Panel** for managing products, users, orders, and reports
 
 ---
 
-### 🎵 HarmoniSync - Intelligent Track Sequencer (In Progress)
+### 🎵 HarmoniSync - Intelligent Track Sequencer
 A **Python-based track sequencing system** that arranges songs in a **harmonically compatible order** using the **Camelot system**, **tempo**, **energy**, and **genre matching**. Designed for **DJs and curated listening experiences**, HarmoniSync optimizes transitions for seamless mixing.
 
 ✅ **Track Analysis**: Extracts **key, BPM, energy, and genre**  
