@@ -33,5 +33,19 @@ A **Python-based track sequencing system** that arranges songs in a **harmonical
 ✅ **Beatmatching & Mixing**: Optimizes playlist flow for **smooth transitions**  
 
 🔗 **GitHub Repo:** [HarmoniSync](https://github.com/Shashwat0212/Harmoni-Sync)  
+
+## 📌 Learning
+
+### 🏸 Badminton Pose Analysis using Deep Learning
+A deep learning-based **pose analysis system** designed to help amateur badminton players improve their posture by learning from **professional players like Lee Chong Wei (LCW) and Tai Tzu Ying (TTY)**.  
+
+✅ **Scraped & processed** badminton match videos to extract frames of key shots  
+✅ **Used TensorFlow Object Detection API** to identify player poses  
+✅ **Trained a CNN classifier** to recognize shots like **smash, net-drop, backhand clear, and defense**  
+✅ **Applied perspective transformation & bird’s-eye view analysis** to measure lunge distance & shot consistency  
+
+This project was part of my **learning experience in CNNs and deep learning** during college. It provided hands-on exposure to **computer vision, pose estimation, and neural network-based classification**.  
+
+
   
 
