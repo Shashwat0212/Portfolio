@@ -24,5 +24,14 @@ It features an **Admin Panel** for managing products, users, orders, and reports
 
 ---
 
-## 📌 More Projects Coming Soon...
-Stay tuned for more exciting projects! 🚀  
+### 🎵 HarmoniSync - Intelligent Track Sequencer (In Progress)
+A **Python-based track sequencing system** that arranges songs in a **harmonically compatible order** using the **Camelot system**, **tempo**, **energy**, and **genre matching**. Designed for **DJs and curated listening experiences**, HarmoniSync optimizes transitions for seamless mixing.
+
+✅ **Track Analysis**: Extracts **key, BPM, energy, and genre**  
+✅ **Smart Sequencing**: Uses the **Camelot Wheel** to arrange songs harmonically  
+✅ **API Integration**: Supports **external APIs for key detection**  
+✅ **Beatmatching & Mixing**: Optimizes playlist flow for **smooth transitions**  
+
+🔗 **GitHub Repo:** [HarmoniSync](https://github.com/Shashwat0212/Harmoni-Sync)  
+  
+
