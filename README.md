@@ -46,6 +46,21 @@ A deep learning-based **pose analysis system** designed to help amateur badminto
 
 This project was part of my **learning experience in CNNs and deep learning** during college. It provided hands-on exposure to **computer vision, pose estimation, and neural network-based classification**.  
 
+🔗 **GitHub Repo:** [Badminton Pose Analysis](https://github.com/Shashwat0212/badminton-pose-analysis)  
+
+---
+
+### 🎨 UI & Simulations - Inspired by Coding Train
+While exploring creative coding, I followed **Daniel Shiffman’s** [Coding Train](https://www.youtube.com/user/shiffman) tutorials on **p5.js** and built various UI and simulation-based projects.
+
+✅ **A* Pathfinding Algorithm** – Implemented an interactive visualization of **A* search algorithm**, commonly used in video games.  
+✅ **Lorenz Attractor Simulation** – A visualization of chaotic fluid motion using **differential equations**.  
+✅ **Audio Visuals & Fluid Simulations** – Experimented with **blobby effects, audio-reactive visuals, and fluid motion**.  
+✅ **Flappy Bird Clone (Genetic Algorithm)** – Implemented a Flappy Bird AI using **evolutionary algorithms** to optimize game performance.  
+
+These projects helped me **understand UI design, physics-based simulations, and generative algorithms** in a fun and interactive way.  
+
+🔗 **GitHub Repo:** [p5.js Sketches](https://github.com/Shashwat0212/p5js_sketches)  
 
   
 
