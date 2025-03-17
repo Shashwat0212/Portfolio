@@ -60,6 +60,19 @@ While exploring creative coding, I followed **Daniel Shiffman’s** [Coding Trai
 
 These projects helped me **understand UI design, physics-based simulations, and generative algorithms** in a fun and interactive way.  
 
+### 🚖 Uber Clone (React Native)
+Just like my other projects, this one was an **absolute ride!** 🎢  
+A **fully functional Uber Clone** built using **React Native**, featuring real-time navigation, pricing, and ride selection.
+
+✅ **Google APIs (Distance Matrix, Directions, Places)** – Real-time location services  
+✅ **Apple & Google Maps** – Seamless integration for both platforms  
+✅ **Redux State Management** – Keeps track of user data & ride details  
+✅ **Tailwind CSS for React Native** – Modern, responsive UI  
+✅ **Navigation System** – Smooth screen transitions  
+
+🔗 **GitHub Repo:** [Uber Clone](https://github.com/Shashwat0212/uber-clone)  
+
+
 🔗 **GitHub Repo:** [p5.js Sketches](https://github.com/Shashwat0212/p5js_sketches)  
 
   
